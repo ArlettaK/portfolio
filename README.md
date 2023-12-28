@@ -45,7 +45,7 @@
 
 ## My test case examples
 <ul>
-  <li><https://www.dropbox.com/home/My%20test%20case%20examples> </li>
+  <li> Test case for [ https://faq-qa.m.goit.global/pl/components-and-functionality/header] (https://www.dropbox.com/home/My%20test%20case%20examples) </li>
 </ul>
   
 ## My bug reports
