@@ -19,3 +19,32 @@
 <li>Creating test cases.</li>
 <li>Reporting bugs.</li>
 </ul>
+
+## Groups on Facebook
+<ul>
+<li>Tester oprogramowania - wsparcie na starcie.</li>
+<li>Testowanie oprogramowania.</li>
+<li>Girls Who Tests.</li>
+</ul>
+
+## Recommended blogs
+<ul>
+  <li>testerzy.pl</li>
+  <li>testuj.pl - Test, Bugs & Rock'n'Roll</li>
+  <li>remigiuszbednarczyk.pl</li>
+  <li>DevEnv</li>
+  <li>wyszkolewas.com.pl</li>
+</ul>
+
+## Webinars
+<ul>
+  <li>IFs&Whiles - "Naucz się testować manualnie".</li>
+  <li>GOIT - "Jak zacząć karierę Testera Oprogramowania od zera?"</li>
+  <li>GOIT - Maraton QA.</li>
+</ul>
+
+## My test case examples
+
+## My bug reports
+
+
