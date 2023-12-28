@@ -44,7 +44,7 @@
 </ul>
 
 ## My test case examples
-- [Test case for site GOIT](https://www.dropbox.com/home/My%20test%20case%20examples)
+- [Test case for site GOIT Dropbox](https://www.dropbox.com/home/My%20test%20case%20examples)
   
 ## My bug reports
 
