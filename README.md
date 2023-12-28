@@ -44,9 +44,7 @@
 </ul>
 
 ## My test case examples
-<ul>
-  <li>[Test case for site https://faq-qa.m.goit.global/pl/components-and-functionality/header](https://www.dropbox.com/home/My%20test%20case%20examples) </li>
-</ul>
+- [Test case for site GOIT](https://www.dropbox.com/home/My%20test%20case%20examples)
   
 ## My bug reports
 
