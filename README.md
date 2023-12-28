@@ -44,7 +44,7 @@
 </ul>
 
 ## My test case examples
-- [Test case for site GOIT Dropbox](https://www.dropbox.com/scl/fo/oapt3d2bdj2vqb7jaecls/h?rlkey=kzlao1k4tpnhr3m0831m55kw0&dl=0))
+- [Test case for site GOIT Dropbox](https://www.dropbox.com/scl/fo/oapt3d2bdj2vqb7jaecls/h?rlkey=kzlao1k4tpnhr3m0831m55kw0&dl=0)
   
 ## My bug reports
 
