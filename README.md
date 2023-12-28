@@ -1,4 +1,3 @@
 # Portfolio
-About me
-________________________________
+## About me
 
