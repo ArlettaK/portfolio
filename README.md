@@ -49,6 +49,4 @@
 - [Test case for site GOIT Dropbox](https://www.dropbox.com/scl/fi/o7g3ht7dq5crbns1c89a3/Subtask-1-AK-Test-cases.xlsx?rlkey=aocfb0s9ibtazb4gt6sj04n77&dl=0)
   
 ## My bug reports
-- [Bug reports for site GOIT Dropbox](https://www.dropbox.com/scl/fi/aci02ywjx3slcz7zmw98e/Zg-aszanie-b-d-w-GOIT.pdf?rlkey=ky7cc76fhc6y471tr4rnnbpga&dl=0)
-
-
+- [Bug reports for site GOIT Dropbox](https://www.dropbox.com/scl/fi/du2beeo4xo5aze0bqpqoz/Zg-aszanie-b-d-w-GOIT.pdf?rlkey=rb4nuxvc84qa04g21vsobes7d&dl=0)
